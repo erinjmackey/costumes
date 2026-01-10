@@ -1,0 +1,38 @@
+alterations_pricing:
+  services:
+    - service: "Basic hem"
+      description: skirt, pant, dress
+      price: "$10-$30"
+    - service: "Large hem"
+      description: ballgown, circle skirt
+      price: "$30-$60"
+    - service: "Basic size adjustment "
+      description: simple take-in or let-out at one seam
+      price: "$20-50"
+    - service: "Strap shortening or adjustment"
+      description: 
+      price: "$5–$10"
+    - service: "Elastic adjustment or replacement"
+      description: 
+      price: "$10"
+    - service: "Minor repairs "
+      description: loose seams, small tears
+      price: "$5–$25"
+    - service: "Zipper repair or replacement"
+      description: 
+      price: "Starting at $15"
+    - service: "Complex Alterations"
+      description: >
+        Alterations requiring partial or full disassembly, lining removal, bodice reconstruction, multiple seams, boning, or specialty fabrics.  
+          
+        *Final pricing based on time and complexity; quote provided before work begins.*
+      price: "$35/hour"
+    - service: "Custom Pattern Drafting"
+      description: Based on complexity
+      price: "Starting at $100"
+    - service: "Pattern Digitization"
+      description: Based on complexity
+      price: "Starting at $50"
+    - service: "Custom Garment"
+      description: Full custom builds, consultation required
+      price: "Varies"

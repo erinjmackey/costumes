@@ -1,0 +1,6 @@
+- name: "IMDb"
+  url: "https://www.imdb.com/name/nm11334652/"
+  icon: "bi-film"
+- name: "Instagram"
+  url: "https://www.instagram.com/erinjmackey"
+  icon: "bi-instagram"

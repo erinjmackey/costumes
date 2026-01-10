@@ -1,0 +1,66 @@
+- category: Education
+  courses:
+  - course: BFA Drama
+    type: Education
+    location: University of Calgary
+    department: All
+    date: 2023-12-06
+    description: Developed a comprehensive understanding of dramatic theory, performance techniques, and theatrical production. Participated in various stage productions, honing acting skills and gaining practical experience in live performance. Studied dramatic literature, history, and critical analysis, fostering a deep appreciation for the art form. Collaborated with peers and faculty on creative projects, enhancing teamwork and communication skills. Acquired proficiency in script analysis, character development, and the technical aspects of stagecraft. Engaged in coursework covering diverse theatrical genres, contributing to a well-rounded foundation in drama.
+  - course: BSc Computer Science
+    type: Education
+    location: University of Lethbridge
+    department: All
+    date: 2014-04-30
+    description: Developed strong analytical and problem-solving skills through coursework in computer science, enhancing my ability to tackle challenges in a dynamic work environment. Acquired a solid foundation in time management and attention to detail, essential for organizing and executing tasks efficiently. Gained proficiency in communication and teamwork, collaborating on group projects and engaging in effective information sharing. Cultivated a strong work ethic, balancing academic demands and extracurricular activities, highlighting my commitment to meeting deadlines and achieving goals. Developed interpersonal skills through collaborative coding projects and group presentations, emphasizing effective communication in both written and verbal formats.
+- category: Certification
+  courses:
+  - course: Fall Protection
+    type: Certification
+    location: IATSE 212
+    department: Tech
+    date: 2025-07-31
+    description: 
+  - course: First Aid & CPR/AED level C
+    type: Certification
+    location: Canadian Red Cross
+    department: All
+    date: 2025-07-07
+    description: 
+  - course: Lift Truck Certification
+    type: Certification
+    location: ABCS Safety Training
+    department: Tech
+    date: 2025-06-30
+    description: 
+  - course: Scissor Lift 3a & Boomlift 3b Operator Certification
+    type: Certification
+    location: United Rentals
+    department: Tech
+    date: 2025-09-03
+    description: 
+- category: Training
+  courses:
+  - course: DGC Ultimate Production Assistant Workshop
+    type: Training
+    location: DGC
+    department: PA
+    date: 2023-05-13
+    description: 
+  - course: Hat Blocking
+    type: Training
+    location: IATSE 212
+    department: Wardrobe
+    date: 2025-11-29
+    description: Carolyn Devins
+  - course: Introduction to Costume Buying
+    type: Training
+    location: IATSE 212
+    department: Wardrobe
+    date: 2024-08-11
+    description: An in-depth 2 hour presentation outlining the qualifications, roles, responsibilities, skills/tools needed, and how to excel as a Buyer in the Costume Department.
+  - course: Set Etiquette
+    type: Training
+    location: IATSE 212
+    department: All
+    date: 2022-03-03
+    description: 

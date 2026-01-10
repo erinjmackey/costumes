@@ -1,0 +1,69 @@
+:root {
+
+--bs-primary-rgb: 232, 228, 240;
+--icon-lilac: #c6add5ff;
+--icon-russian-violet: #44255aff;
+--icon-purpureus: #915da7ff;
+--icon-plum: #904098ff;
+--icon-purpureus-2: #a953acff;
+--bs-body-bg: transparent !important;
+}
+
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+}
+
+/* Gallery Hover Effect */
+.gallery-thumb {
+  cursor: pointer;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  object-fit: cover;
+  height: 250px; /* Ensures all thumbnails are the same height */
+  width: 100%;
+}
+
+.gallery-thumb:hover {
+  transform: scale(1.03);
+  filter: brightness(90%);
+}
+
+/* Modal styling for dark background */
+#imageModal .modal-content {
+  background-color: transparent;
+}
+
+#imageModal .modal-body img {
+  box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+.progress {
+    --bs-progress-height: 1rem;
+    --bs-progress-font-size: 0.75rem;
+    --bs-progress-bg: var(--icon-plum);
+    --bs-progress-border-radius: 0.375rem;
+    --bs-progress-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.075);
+    --bs-progress-bar-color: #fff;
+    --bs-progress-bar-bg: var(--icon-plum);
+    --bs-progress-bar-transition: width 0.6s ease;
+    display: flex;
+    height: var(--bs-progress-height);
+    overflow: hidden;
+    font-size: var(--bs-progress-font-size);
+    background-color: var(--bs-progress-bar-color);
+    border-radius: var(--bs-progress-border-radius);
+    width: 100px !important;
+}
+
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: var(--bs-progress-bar-color);
+    text-align: center;
+    white-space: nowrap;
+    background-color: var(--icon-plum);
+    transition: var(--bs-progress-bar-transition);
+}
