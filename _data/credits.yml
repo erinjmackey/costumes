@@ -1,6 +1,20 @@
 - category: Wardrobe
   credits:
   - type: Wardrobe
+    title: Stitcher
+    show: Frontier
+    company: Ghost River Theatre
+    director: 
+    date: 2026-04-23
+    location: Calgary, AB
+  - type: Wardrobe
+    title: Stitcher
+    show: Barber of Seville
+    company: Calgary Opera
+    director: 
+    date: 2026-03-23
+    location: Calgary, AB
+  - type: Wardrobe
     title: Costume Designer
     show: Legally Blonde the Musical
     company: MTUCalgary
