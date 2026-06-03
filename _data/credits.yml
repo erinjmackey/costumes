@@ -259,6 +259,20 @@
     director: 
     date: 2024-04-08
     location: Calgary, AB  
+  - type: Wardrobe
+    title: Costume Designer
+    show: Poker Wars
+    company: Digital Presence
+    director: 
+    date: 2026-05-21
+    location: Calgary, AB
+  - type: Wardrobe
+    title: Tailor
+    show: Comcast - American Stories
+    company: Exposed Films
+    director: 
+    date: 2026-06-02
+    location: Calgary, AB
 - category: Art/Props
   credits:
   - type: Art/Props
@@ -337,6 +351,13 @@
     location: Calgary, AB
 - category: Tech
   credits:
+  - type: Tech
+    title: Stage Hand
+    show: Diljit Dosanjh
+    company: Saddledome
+    director: 
+    date: 2026-04-29
+    location: Calgary, AB
   - type: Tech
     title: Stage Hand
     show: 2024 Miss Teen Calgary Pageant
