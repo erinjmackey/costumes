@@ -1,488 +1,539 @@
-- category: Wardrobe
-  credits:
-  - type: Wardrobe
-    title: Stitcher
-    show: Frontier
-    company: Ghost River Theatre
-    director: 
-    date: 2026-04-23
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Barber of Seville
-    company: Calgary Opera
-    director: 
-    date: 2026-03-23
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Costume Designer
-    show: Legally Blonde the Musical
-    company: MTUCalgary
-    director: Leslie Han, Tyler Ukrainetz
-    date: 2022-06-16
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Costume Designer
-    show: Love's Heavy Burden
-    company: The Shakespeare Company
-    director: Jim Lair Beard
-    date: 2023-06-20
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Dresser
-    show: 2024 Miss Teen Calgary Pageant
-    company: Canadian Beauties
-    director: 
-    date: 2024-01-27
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: A Monster Calls
-    company: University of Calgary
-    director: Steven Conde
-    date: 2023-03-23
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Argonautika
-    company: University of Calgary
-    director: Randi Edmundson
-    date: 2023-02-11
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Bee-trayal
-    company: University of Calgary
-    director: 
-    date: 2022-06-25
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Formations
-    company: University of Calgary
-    director: Christine Brubaker
-    date: 2022-03-28
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Hookman
-    company: University of Calgary
-    director: Jenna Rodgers
-    date: 2022-10-21
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Mainstage Dance
-    company: University of Calgary
-    director: 
-    date: 2022-03-10
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Much Ado About Nothing
-    company: University of Calgary
-    director: Cali Sproule
-    date: 2022-11-25
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Shakespeare in Love
-    company: University of Calgary
-    director: Steven Conde
-    date: 2023-11-24
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Tao of the World
-    company: University of Calgary
-    director: Jovanni Sy
-    date: 2022-02-11
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: The Bus Stop
-    company: University of Calgary
-    director: Fangzheng (Nick) Wang
-    date: 2021-11-26
-    location: Calgary, AB
-  - type: Wardrobe
-    title: First Hand
-    show: Venus and Adonis
-    company: University of Calgary
-    director: Vanessa Porteous
-    date: 2023-11-29
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: Absence
-    company: University of Calgary
-    director: Saeid Asgarian
-    date: 2023-09-20
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: Comedy of Errors
-    company: The Shakespeare Company
-    director: 
-    date: 2024-09-27
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: Here We Go
-    company: University of Calgary
-    director: Cali Sproule
-    date: 2022-03-31
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: Horse Girls
-    company: University of Calgary
-    director: Randi Edmundson
-    date: 2022-04-07
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: Legally Blonde the Musical
-    company: MTUCalgary
-    director: Leslie Han, Tyler Ukrainetz
-    date: 2022-06-16
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: Love's Heavy Burden
-    company: The Shakespeare Company
-    director: Jim Lair Beard
-    date: 2023-06-20
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: The Fog Experiments
-    company: University of Calgary
-    director: 
-    date: 2023-03-29
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Head of Wardrobe
-    show: Twelfth Night
-    company: The Shakespeare Company
-    director: 
-    date: 2024-09-28
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Bluebeard's Castle
-    company: Calgary Opera
-    director: 
-    date: 2025-03-05
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Don Giovanni
-    company: Calgary Opera
-    director: 
-    date: 2024-10-02
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Don Pasquale
-    company: Calgary Opera
-    director: 
-    date: 2024-11-04
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Gaslight
-    company: Vertigo Theatre
-    director: Jack Grinhaus
-    date: 2023-03-16
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Gianni Schicchi
-    company: Calgary Opera
-    director: 
-    date: 2025-03-05
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Hansel and Gretel
-    company: Calgary Opera
-    director: 
-    date: 2026-01-31
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Little Red Riding Hood
-    company: Calgary Opera
-    director: 
-    date: 2025-11-28
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Madame Butterfly
-    company: Calgary Opera
-    director: 
-    date: 2025-10-29
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Nijinsky
-    company: Alberta Ballet
-    director: 
-    date: 2025-09-22
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: Our Town
-    company: University of Calgary
-    director: 
-    date: 2024-12-17
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Stitcher
-    show: The Witty Squirrel
-    company: Calgary Opera
-    director: 
-    date: 2024-11-01
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Wardrobe Assistant
-    show: The Sugar Mama Season One
-    company: IndigeKin Productions Inc.
-    director: Nauzanin Knight
-    date: 2023-05-23
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Wardrobe Trainee
-    show: Beaches The Musical
-    company: Theatre Calgary
-    director: 
-    date: 2024-04-08
-    location: Calgary, AB  
-  - type: Wardrobe
-    title: Costume Designer
-    show: Poker Wars
-    company: Digital Presence
-    director: 
-    date: 2026-05-21
-    location: Calgary, AB
-  - type: Wardrobe
-    title: Tailor
-    show: Comcast - American Stories
-    company: Exposed Films
-    director: 
-    date: 2026-06-02
-    location: Calgary, AB
-- category: Art/Props
-  credits:
-  - type: Art/Props
-    title: Head of Props
-    show: Absence
-    company: University of Calgary
-    director: Saeid Asgarian
-    date: 2023-09-20
-    location: Calgary, AB
-  - type: Art/Props
-    title: Props
-    show: SR Dance
-    company: University of Calgary
-    director: 
-    date: 2023-01-22
-    location: Calgary, AB
-  - type: Art/Props
-    title: Props Assistant
-    show: Argonautika
-    company: University of Calgary
-    director: Randi Edmundson
-    date: 2023-02-11
-    location: Calgary, AB
-  - type: Art/Props
-    title: Props Assistant
-    show: Much Ado About Nothing
-    company: University of Calgary
-    director: Cali Sproule
-    date: 2022-11-25
-    location: Calgary, AB
-- category: Stage Management
-  credits:
-  - type: Stage Management
-    title: Assistant Stage Manager
-    show: Much Ado About Nothing
-    company: University of Calgary
-    director: Cali Sproule
-    date: 2022-11-25
-    location: Calgary, AB
-  - type: Stage Management
-    title: Stage Manager
-    show: Suzuki Concert
-    company: University of Calgary
-    director: 
-    date: 2022-06-12
-    location: Calgary, AB
-  - type: Stage Management
-    title: Stage Manager
-    show: The Mouse That Roared
-    company: Dr. EP Scarlett High School
-    director: James Jack
-    date: 2008-05-15
-    location: Calgary, AB
-- category: Camera
-  credits:
-  - type: Camera
-    title: Camera Operator
-    show: Bee-trayal
-    company: University of Calgary
-    director: 
-    date: 2022-06-25
-    location: Calgary, AB
-  - type: Camera
-    title: Camera Operator
-    show: The Little Forest
-    company: University of Calgary
-    director: Cali Sproule
-    date: 2023-06-25
-    location: Calgary, AB
-  - type: Camera
-    title: Camera Operator
-    show: Zoo Story
-    company: University of Calgary
-    director: 
-    date: 2021-03-06
-    location: Calgary, AB
-- category: Tech
-  credits:
-  - type: Tech
-    title: Stage Hand
-    show: Diljit Dosanjh
-    company: Saddledome
-    director: 
-    date: 2026-04-29
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: 2024 Miss Teen Calgary Pageant
-    company: Canadian Beauties
-    director: 
-    date: 2024-01-27
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Coca-Cola Stage 2025
-    company: Calgary Stampede
-    director: 
-    date: 2025-07-06
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Cowboys Music Festival Shows 2024
-    company: Calgary Stampede
-    director: 
-    date: 2024-07-14
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Cowboys Music Festival Shows 2024
-    company: Calgary Stampede
-    director: 
-    date: 2024-07-15
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Cowboys Music Festival Shows 2025
-    company: Calgary Stampede
-    director: 
-    date: 2025-07-05
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Cowboys Music Festival Shows 2025
-    company: Calgary Stampede
-    director: 
-    date: 2025-07-15
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Dance at Night
-    company: University of Calgary
-    director: 
-    date: 2022-04-08
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Dance at Noon (Winter)
-    company: University of Calgary
-    director: 
-    date: 2021-12-07
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Grandstand Show
-    company: Calgary Stampede
-    director: 
-    date: 2025-07-14
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Keith Urban
-    company: Saddledome
-    director: 
-    date: 2025-09-12
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Lainey Wilson
-    company: Saddledome
-    director: 
-    date: 2025-08-28
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Melissa Etheridge / Jewel
-    company: Calgary Stampede
-    director: 
-    date: 2024-07-14
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Miranda Lambert
-    company: Saddledome
-    director: 
-    date: 2024-07-12
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Papa Roach
-    company: Saddledome
-    director: 
-    date: 2025-11-28
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Rotary International
-    company: Saddledome
-    director: 
-    date: 2025-06-18
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: World Stage Design 2022
-    company: World Stage Design
-    director: 
-    date: 2022-08-06
-    location: Calgary, AB
-  - type: Tech
-    title: Stage Hand
-    show: Dance at Noon (Spring)
-    company: University of Calgary
-    director: 
-    date: 2021-03-31
-    location: Calgary, AB
-- category: Front of House
-  credits:
-  - type: FOH
-    title: Front of House Manager
-    show: 2024 Miss Teen Calgary Pageant
-    company: Canadian Beauties
-    director: 
-    date: 2024-01-27
-    location: Calgary, AB
+- type: Wardrobe
+  title: Dresser
+  show: Beauty and the Beast
+  company: Broadway Across Canada
+  director: 
+  date: 2026-11-10
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Tosca
+  company: Calgary Opera
+  director: 
+  date: 2026-10-15
+  location: Calgary, AB
+- type: Wardrobe
+  title: BG Costumer
+  show: My Life With the Walter Boys
+  company: Frontera Productions BC LTD
+  director: 
+  date: 2026-08-21
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Heartland
+  company: Rescued Horse Season Twenty Inc.
+  director: 
+  date: 2026-06-11
+  location: Calgary, AB
+- type: Wardrobe
+  title: Tailor
+  show: Comcast - American Stories
+  company: Exposed Films
+  director: 
+  date: 2026-06-02
+  location: Calgary, AB
+- type: Wardrobe
+  title: Costume Designer
+  show: Poker Wars
+  company: Digital Presence
+  director: 
+  date: 2026-05-21
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Frontier
+  company: Ghost River Theatre
+  director: 
+  date: 2026-04-23
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Barber of Seville
+  company: Calgary Opera
+  director: 
+  date: 2026-03-23
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Hansel and Gretel
+  company: Calgary Opera
+  director: 
+  date: 2026-01-31
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Little Red Riding Hood
+  company: Calgary Opera
+  director: 
+  date: 2025-11-28
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Madame Butterfly
+  company: Calgary Opera
+  director: 
+  date: 2025-10-29
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Nijinsky
+  company: Alberta Ballet
+  director: 
+  date: 2025-09-22
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Bluebeard's Castle
+  company: Calgary Opera
+  director: 
+  date: 2025-03-05
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Gianni Schicchi
+  company: Calgary Opera
+  director: 
+  date: 2025-03-05
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Our Town
+  company: University of Calgary
+  director: 
+  date: 2024-12-17
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Don Pasquale
+  company: Calgary Opera
+  director: 
+  date: 2024-11-04
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: The Witty Squirrel
+  company: Calgary Opera
+  director: 
+  date: 2024-11-01
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Don Giovanni
+  company: Calgary Opera
+  director: 
+  date: 2024-10-02
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: Twelfth Night
+  company: The Shakespeare Company
+  director: 
+  date: 2024-09-28
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: Comedy of Errors
+  company: The Shakespeare Company
+  director: 
+  date: 2024-09-27
+  location: Calgary, AB
+- type: Wardrobe
+  title: Wardrobe Trainee
+  show: Beaches The Musical
+  company: Theatre Calgary
+  director: 
+  date: 2024-04-08
+  location: Calgary, AB
+- type: Wardrobe
+  title: Dresser
+  show: 2024 Miss Teen Calgary Pageant
+  company: Canadian Beauties
+  director: 
+  date: 2024-01-27
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Venus and Adonis
+  company: University of Calgary
+  director: Vanessa Porteous
+  date: 2023-11-29
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Shakespeare in Love
+  company: University of Calgary
+  director: Steven Conde
+  date: 2023-11-24
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: Absence
+  company: University of Calgary
+  director: Saeid Asgarian
+  date: 2023-09-20
+  location: Calgary, AB
+- type: Wardrobe
+  title: Costume Designer
+  show: Love's Heavy Burden
+  company: The Shakespeare Company
+  director: Jim Lair Beard
+  date: 2023-06-20
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: Love's Heavy Burden
+  company: The Shakespeare Company
+  director: Jim Lair Beard
+  date: 2023-06-20
+  location: Calgary, AB
+- type: Wardrobe
+  title: Wardrobe Assistant
+  show: The Sugar Mama Season One
+  company: IndigeKin Productions Inc.
+  director: Nauzanin Knight
+  date: 2023-05-23
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: The Fog Experiments
+  company: University of Calgary
+  director: 
+  date: 2023-03-29
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: A Monster Calls
+  company: University of Calgary
+  director: Steven Conde
+  date: 2023-03-23
+  location: Calgary, AB
+- type: Wardrobe
+  title: Stitcher
+  show: Gaslight
+  company: Vertigo Theatre
+  director: Jack Grinhaus
+  date: 2023-03-16
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Argonautika
+  company: University of Calgary
+  director: Randi Edmundson
+  date: 2023-02-11
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Much Ado About Nothing
+  company: University of Calgary
+  director: Cali Sproule
+  date: 2022-11-25
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Hookman
+  company: University of Calgary
+  director: Jenna Rodgers
+  date: 2022-10-21
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Bee-trayal
+  company: University of Calgary
+  director: 
+  date: 2022-06-25
+  location: Calgary, AB
+- type: Wardrobe
+  title: Costume Designer
+  show: Legally Blonde the Musical
+  company: MTUCalgary
+  director: Leslie Han, Tyler Ukrainetz
+  date: 2022-06-16
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: Legally Blonde the Musical
+  company: MTUCalgary
+  director: Leslie Han, Tyler Ukrainetz
+  date: 2022-06-16
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: Horse Girls
+  company: University of Calgary
+  director: Randi Edmundson
+  date: 2022-04-07
+  location: Calgary, AB
+- type: Wardrobe
+  title: Head of Wardrobe
+  show: Here We Go
+  company: University of Calgary
+  director: Cali Sproule
+  date: 2022-03-31
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Formations
+  company: University of Calgary
+  director: Christine Brubaker
+  date: 2022-03-28
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Mainstage Dance
+  company: University of Calgary
+  director: 
+  date: 2022-03-10
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: Tao of the World
+  company: University of Calgary
+  director: Jovanni Sy
+  date: 2022-02-11
+  location: Calgary, AB
+- type: Wardrobe
+  title: First Hand
+  show: The Bus Stop
+  company: University of Calgary
+  director: Fangzheng (Nick) Wang
+  date: 2021-11-26
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: CCR Solutions
+  company: Telus Convention Centre
+  director: 
+  date: 2026-07-27
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Werklund Centre
+  company: Werklund Centre
+  director: 
+  date: 2026-07-22
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Martha Cohen Theatre
+  company: Werklund Centre
+  director: 
+  date: 2026-06-30
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Sparq
+  company: Werklund Centre
+  director: 
+  date: 2026-06-20
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Evolve Dance
+  company: Werklund Centre
+  director: 
+  date: 2026-06-08
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Diljit Dosanjh
+  company: Saddledome
+  director: 
+  date: 2026-04-29
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Papa Roach
+  company: Saddledome
+  director: 
+  date: 2025-11-28
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Keith Urban
+  company: Saddledome
+  director: 
+  date: 2025-09-12
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Lainey Wilson
+  company: Saddledome
+  director: 
+  date: 2025-08-28
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Cowboys Music Festival Shows 2025
+  company: Calgary Stampede
+  director: 
+  date: 2025-07-15
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Grandstand Show
+  company: Calgary Stampede
+  director: 
+  date: 2025-07-14
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Coca-Cola Stage 2025
+  company: Calgary Stampede
+  director: 
+  date: 2025-07-06
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Cowboys Music Festival Shows 2025
+  company: Calgary Stampede
+  director: 
+  date: 2025-07-05
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Rotary International
+  company: Saddledome
+  director: 
+  date: 2025-06-18
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Cowboys Music Festival Shows 2024
+  company: Calgary Stampede
+  director: 
+  date: 2024-07-15
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Cowboys Music Festival Shows 2024
+  company: Calgary Stampede
+  director: 
+  date: 2024-07-14
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Melissa Etheridge / Jewel
+  company: Calgary Stampede
+  director: 
+  date: 2024-07-14
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Miranda Lambert
+  company: Saddledome
+  director: 
+  date: 2024-07-12
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: 2024 Miss Teen Calgary Pageant
+  company: Canadian Beauties
+  director: 
+  date: 2024-01-27
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: World Stage Design 2022
+  company: World Stage Design
+  director: 
+  date: 2022-08-06
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Dance at Night
+  company: University of Calgary
+  director: 
+  date: 2022-04-08
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Dance at Noon
+  company: University of Calgary
+  director: 
+  date: 2021-12-07
+  location: Calgary, AB
+- type: Tech
+  title: Stage Hand
+  show: Dance at Noon
+  company: University of Calgary
+  director: 
+  date: 2021-03-31
+  location: Calgary, AB
+- type: Stage Management
+  title: Assistant Stage Manager
+  show: Much Ado About Nothing
+  company: University of Calgary
+  director: Cali Sproule
+  date: 2022-11-25
+  location: Calgary, AB
+- type: Stage Management
+  title: Stage Manager
+  show: Suzuki Concert
+  company: University of Calgary
+  director: 
+  date: 2022-06-12
+  location: Calgary, AB
+- type: Stage Management
+  title: Stage Manager
+  show: The Mouse That Roared
+  company: Dr. EP Scarlett High School
+  director: James Jack
+  date: 2008-05-15
+  location: Calgary, AB
+- type: FOH
+  title: Front of House
+  show: 2024 Miss Teen Calgary Pageant
+  company: Canadian Beauties
+  director: 
+  date: 2024-01-27
+  location: Calgary, AB
+- type: Camera
+  title: Camera Operator
+  show: The Little Forest
+  company: University of Calgary
+  director: Cali Sproule
+  date: 2023-06-25
+  location: Calgary, AB
+- type: Camera
+  title: Camera Operator
+  show: Bee-trayal
+  company: University of Calgary
+  director: 
+  date: 2022-06-25
+  location: Calgary, AB
+- type: Camera
+  title: Camera Operator
+  show: Zoo Story
+  company: University of Calgary
+  director: 
+  date: 2021-03-06
+  location: Calgary, AB
+- type: Art/Props
+  title: Head of Props
+  show: Absence
+  company: University of Calgary
+  director: Saeid Asgarian
+  date: 2023-09-20
+  location: Calgary, AB
+- type: Art/Props
+  title: Props Assistant
+  show: Argonautika
+  company: University of Calgary
+  director: Randi Edmundson
+  date: 2023-02-11
+  location: Calgary, AB
+- type: Art/Props
+  title: Props Assistant
+  show: SR Dance
+  company: University of Calgary
+  director: 
+  date: 2023-01-22
+  location: Calgary, AB
+- type: Art/Props
+  title: Props Assistant
+  show: Much Ado About Nothing
+  company: University of Calgary
+  director: Cali Sproule
+  date: 2022-11-25
+  location: Calgary, AB

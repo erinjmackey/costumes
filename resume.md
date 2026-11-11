@@ -48,36 +48,38 @@ permalink: /resume/
 <hr>
 <section class="container my-5 resume-section" id="credits">
   <h2 class="mb-4">Credits</h2>
-  
-  {% for section in site.data.credits %}
-  <h3 class="h5 mt-4 text-uppercase text-muted">{{ section.category }}</h3>
-  <table class="table table-hover">
-    <tbody>
-	{% assign credits = section.credits | sort:"date" | reverse %}
-      {% for item in credits | sort:"date" | reverse %}
-      <tr>
-        <td class="col-3"><strong>{{ item.title }}</strong></td>
-        <td class="col-4">{{ item.show }}</td>
-        <td class="col-3">{{ item.company }}</td>
-		<td class="col-1">{{ item.date | date: "%Y" }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+  {% assign type_order = "Wardrobe,Art/Props,Camera,FOH,Stage Management,Tech" | split: "," %}
+  {% for current_type in type_order %}
+  {% assign group_items = site.data.credits | where: "type", current_type %}
+  {% if group_items.size > 0 %}
+    <h3 class="h5 mt-4 text-uppercase text-muted">{{ current_type }}</h3>
+    {% assign sorted_items = group_items | sort: "date" | reverse %}
+    <table class="table table-hover">
+      <tbody>
+        {% for item in sorted_items %}
+        <tr>
+          <td class="col-3"><strong>{{ item.title }}</strong></td>
+          <td class="col-4">{{ item.show }}</td>
+          <td class="col-3">{{ item.company }}</td>
+          <td class="col-1">{{ item.date | date: "%Y" }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
   {% endfor %}
 </section>
+ 
 <hr>
-<section class="container my-5 resume-section" id="skills">
-  <h2 class="mb-4">Skills</h2>
-  
-  {% assign skillgroups = site.data.skills | group_by: "category" %}
 
+<section class="container my-5 resume-section" id="skills">
+  <h2 class="mb-4">Skills</h2>  
+  {% assign skillgroups = site.data.skills | group_by: "category" %}
 	{% for skillgroup in skillgroups %}
 	  <h3>{{ skillgroup.name }}</h3>
 	  <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
 		{% for skill in skillgroup.items %}
-		{% assign percentage = skill.level | times: 100 | divided_by: 4 | round %}
-      
+		{% assign percentage = skill.level | times: 100 | divided_by: 4 | round %}      
 		  <div class="col">
 			  <span>
 				  {{skill.skill}}
